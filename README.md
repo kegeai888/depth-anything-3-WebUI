@@ -1,5 +1,5 @@
 ---
-title: Depth Anything 3
+title: Depth Anything 3 WebUI
 emoji: 🏢
 colorFrom: indigo
 colorTo: pink
@@ -11,7 +11,11 @@ pinned: false
 license: cc-by-nc-4.0
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+# Depth Anything 3 WebUI
+
+**GitHub 仓库**: https://github.com/kegeai888/depth-anything-3-WebUI
+
+**WebUI二次开发**: 科哥 | 微信：312088415 | 公众号：科哥玩AI
 
 ## 快速开始
 

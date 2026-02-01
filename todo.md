@@ -339,8 +339,14 @@ nvidia-smi --query-compute-apps=pid,process_name,used_memory --format=csv
 ## 参考资源
 
 **官方文档：**
-- GitHub: https://github.com/ByteDance-Seed/Depth-Anything-3
+- 原始项目: https://github.com/ByteDance-Seed/Depth-Anything-3
+- WebUI 版本: https://github.com/kegeai888/depth-anything-3-WebUI
 - Hugging Face: https://huggingface.co/depth-anything
+
+**WebUI二次开发：**
+- 开发者：科哥
+- 微信：312088415
+- 公众号：科哥玩AI
 
 **相关技术：**
 - Gradio 文档: https://www.gradio.app/docs
